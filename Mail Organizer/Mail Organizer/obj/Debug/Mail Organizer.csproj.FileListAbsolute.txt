@@ -1,0 +1,12 @@
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\bin\Debug\Mail Organizer.exe.config
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\bin\Debug\Mail Organizer.exe
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\bin\Debug\Mail Organizer.pdb
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\bin\Debug\MetroFramework.Design.dll
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\bin\Debug\MetroFramework.dll
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\bin\Debug\MetroFramework.Fonts.dll
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\obj\Debug\Mail Organizer.csprojResolveAssemblyReference.cache
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\obj\Debug\Mail_Organizer.Form1.resources
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\obj\Debug\Mail_Organizer.Properties.Resources.resources
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\obj\Debug\Mail Organizer.csproj.GenerateResource.Cache
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\obj\Debug\Mail Organizer.exe
+A:\C# Things\Projects\Mail Organizer\Mail Organizer\obj\Debug\Mail Organizer.pdb
